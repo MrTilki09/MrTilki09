@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netrise<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning React Native Cli and Firebase<br>⚡ Fun fact, i have a whole team i work with
+🔭 I’m currently working on ideas<br>👯 I’m looking to collaborate on<br><br>⚡ Fun fact, i have a whole team i work with
 
 
 ## 🌐 Socials:
