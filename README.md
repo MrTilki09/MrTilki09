@@ -1,27 +1,54 @@
-# 💫 About Me:
-🔭 I’m currently working on ideas<br>👯 I’m looking to collaborate on<br><br>⚡ Fun fact, i have a whole team i work with
+# Hi, I'm Eyuphan Tilki 👋
 
+**Full-stack and mobile software developer** focused on React Native and Laravel.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eyuphan.tilki.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darkfox0941) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/etilki09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@etilki09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyuphantilki41gmail.com) 
+I build and ship production applications end to end: mobile interfaces, backend APIs, databases, third-party integrations, automated tests, Docker images, CI/CD pipelines, and VPS deployments.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrTilki09&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MrTilki09&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTilki09&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📱 Building mobile products with **React Native CLI and TypeScript**
+- ⚙️ Developing backend systems with **Laravel and PHP**
+- 🚀 Experienced with production releases for the **App Store and Google Play**
+- 🐳 Improving developer workflows with **Docker and GitHub Actions**
+- 🌱 Beginning to contribute to **React Native packages and developer tools**
+- 🤝 Interested in collaborating on useful mobile tooling, libraries, and open-source applications
+- 🇹🇷 Based in Türkiye · 🇺🇸 US citizen · Open to Spring 2027 internship/co-op opportunities
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrTilki09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Selected work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Project | What I worked on |
+| --- | --- |
+| [Laksis](https://laksis.com) | Production proficiency-testing platform with statistical evaluation, role-based access, split payments, scheduled jobs, messaging, and an eight-language interface. |
+| [Docasist](https://docasist.com) | Laravel and React Native occupational-safety platform with risk analysis, corrective-action tracking, PDF reporting, SMS delivery, and OpenAI-assisted image analysis. |
+| [Netrise](https://netrise.app) | React Native local business discovery app with offline-first search, push notifications, QR/deep-link campaigns, role-specific experiences, and analytics. |
+| [Mahalleli](https://mahalleli.kombobit.com.tr) | React Native and Supabase neighborhood platform featuring geospatial feeds, real-time chat, marketplace functionality, and privacy-focused PostgreSQL policies. |
+| RandSiS | Multi-tenant Laravel appointment platform with multiple branches, role-based access, real-time availability, reminders, and Turkish/English localization. |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrTilki09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Technologies I use
 
----
-[![](https://visitcount.itsvg.in/api?id=MrTilki09&icon=0&color=0)](https://visitcount.itsvg.in)
+**Mobile and frontend**  
+React Native CLI · React · TypeScript · JavaScript · React Query · React Hook Form
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend and data**  
+Laravel · PHP · Node.js · MySQL · PostgreSQL/PostGIS · Firebase · Supabase
+
+**Delivery and tooling**  
+Docker · GitHub Actions · Linux VPS · Nginx · Git · Gradle · Xcode
+
+**Integrations**  
+OpenAI API · Firebase Cloud Messaging · Pusher · iyzico · SMS services
+
+## Open-source journey
+
+I am currently learning the complete contribution workflow: understanding an unfamiliar codebase, reproducing issues, adding tests, submitting focused fixes, and responding to review.
+
+My main contribution interests are:
+
+- React Native packages and native integrations
+- Mobile developer experience and debugging tools
+- Testing, documentation, and CI improvements
+- Laravel packages and Docker-based development workflows
+
+Contributions will be added here as they are merged.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/etilki09) · [Email](mailto:eyuphantilki41@gmail.com)
