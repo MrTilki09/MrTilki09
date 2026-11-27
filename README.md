@@ -10,7 +10,7 @@ I build and ship production applications end to end: mobile interfaces, backend 
 - 🐳 Improving developer workflows with **Docker and GitHub Actions**
 - 🌱 Beginning to contribute to **React Native packages and developer tools**
 - 🤝 Interested in collaborating on useful mobile tooling, libraries, and open-source applications
-- 🇹🇷 Based in Türkiye · 🇺🇸 US citizen · Open to Spring 2027 internship/co-op opportunities and full-time new-grad roles from July 2027
+- 📍 Long Island, New York and Aydın, Türkiye · 🇺🇸🇹🇷 US and Turkish citizen, authorized to work in the US with no sponsorship needed · Open to Spring 2027 internship/co-op opportunities and full-time new-grad roles from July 2027
 
 ## Selected work
 
